@@ -1,0 +1,17 @@
+Wordcount: 3 Sentence: I love python11111111
+Wordcount: 4 Sentence:  I love python2
+Wordcount: 5 Sentence:  I love python 22
+Wordcount: 4 Sentence:  I love python223
+Wordcount: 4 Sentence:  I love python2233
+Wordcount: 4 Sentence:  I love python22334
+Wordcount: 4 Sentence:  I love python223344
+Wordcount: 6 Sentence:  I love pytho n 2233445
+Wordcount: 5 Sentence:  I love python223344 55
+Wordcount: 4 Sentence:  I love python223344556
+Wordcount: 6 Sentence:  I love python2233  445566
+Wordcount: 5 Sentence:  I love pyt hon22334455667
+Wordcount: 6 Sentence:  I love pyt hon22 3344556677
+Wordcount: 5 Sentence:  I love python223344556677 8
+Wordcount: 7 Sentence:  I love py thon2233445  5667788
+Wordcount: 5 Sentence:  I love python2233445566 77889
+Wordcount: 5 Sentence:  I love python 2233 4455 66778 899

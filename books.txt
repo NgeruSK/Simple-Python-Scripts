@@ -1,0 +1,1 @@
+{"tom": {"publisher": "Mark Otis", "year": "2008", "isbn-no": "FKI-09-56", "copies": 34}, "saish": {"publisher": "Meko Ngeru", "year": "2018", "isbn-no": "FKI-09-90", "copies": 46}}
